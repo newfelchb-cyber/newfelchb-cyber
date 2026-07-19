@@ -20,8 +20,8 @@ I am always open to connecting with professionals and collaborating on data anal
 
 | Project | Tools Used | Link |
 | :--- | :--- | :--- |
-| **Sales Performance Dashboard** | Excel, Looker Studio | [View Project](LINK_HERE) |
-| **Customer Survey Analysis** | Google Forms, Sheets | [View Project](LINK_HERE) |
+| **Sales Dashboard Project** | Excel, Looker Studio,Google Forms, Sheets | [View Project](https://github.com/newfelchb-cyber/Sales-Dashboard-Project) |
+| **Inventory Dashboard** |Excel, Looker Studio,Google Forms, Sheets | [View Project](https://github.com/newfelchb-cyber/Inventory-Dashboard) |
 
 ## 📊 GitHub Stats
 
