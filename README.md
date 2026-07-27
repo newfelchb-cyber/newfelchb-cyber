@@ -22,6 +22,7 @@ I am always open to connecting with professionals and collaborating on data anal
 | :--- | :--- | :--- |
 | **Sales Dashboard Project** | Excel, Looker Studio,Google Forms, Sheets | [View Project](https://github.com/newfelchb-cyber/Sales-Dashboard-Project) |
 | **Inventory Dashboard** |Excel, Looker Studio,Google Forms, Sheets | [View Project](https://github.com/newfelchb-cyber/Inventory-Dashboard) |
+| **Costa-Cafe-Sales-Analytics** |Excel | [View Project](https://github.com/newfelchb-cyber/Costa-Cafe-Sales-Analytics) |
 
 ## 📊 GitHub Stats
 
