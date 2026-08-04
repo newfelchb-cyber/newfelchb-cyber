@@ -5,7 +5,7 @@ I am **Newfel Chb**, a Data Analyst. My passion lies in transforming raw data in
 I am always open to connecting with professionals and collaborating on data analysis projects. Feel free to reach out:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Newfel%20Chb-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/newfel-ch-b-437032369)
-[![Gmail Badge](https://img.shields.io/badge/-newfel.chb@email.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE)
+[![Gmail Badge](https://img.shields.io/badge/-newfel.chb@email.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:newfelchb@gmail.com)
 
 ## ⚡ Data Analysis Tools & Technologies
 
